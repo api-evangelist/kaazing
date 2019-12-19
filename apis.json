@@ -1,0 +1,83 @@
+{
+    "name": "Kaazing",
+    "description": "<p>Kaazing, creator of the widely-adopted WebSocket standard, offers a range of enterprise infrastructure products with unmatched security, performance and real-time capabilities, to seamlessly enable next generation private and hybrid cloud deployments for financial, logistics and retail applications.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/kaazing-logo.png",
+    "tags": [
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/kaazing\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Kaazing",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/kaazing-logo.png",
+            "humanURL": "http:\/\/www.kaazing.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/kaazing-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/kaazing-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Hacker News Search",
+            "url": "Kaazing"
+        },
+        {
+            "type": "Stack Exchange Search",
+            "url": "Kaazing"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.kaazing.com"
+        },
+        {
+            "type": "Blog",
+            "url": "https:\/\/kaazing.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "view-source:https:\/\/kaazing.com\/feed\/"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/kaazing.com\/developers\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/kaazing"
+        },
+        {
+            "type": "LinkedIn",
+            "url": "https:\/\/www.linkedin.com\/company\/kaazing-corporation\/"
+        },
+        {
+            "type": "Reddit Search",
+            "url": "Kaazing"
+        },
+        {
+            "type": "Support",
+            "url": "https:\/\/kaazing.com\/support\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/kaazing"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/kaazing.com\/"
+        }
+    ]
+}
